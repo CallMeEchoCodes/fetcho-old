@@ -1,1 +1,1 @@
-# DONT USE THIS. USE https://github.com/CallMeEchoCodes/slimfetch INSTEAD
+# ARCHIVED. Please use https://github.com/CallMeEchoCodes/fetcho instead!
